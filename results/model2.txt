@@ -1,0 +1,6 @@
+Métrica,Média,Desvio Padrão
+Acurácia,0.985714,0.018480
+Falso Positivo,0.009091,0.017584
+Falso Negativo,0.100000,0.225877
+Sensibilidade,0.900000,0.225877
+Precisão,0.888000,0.205344

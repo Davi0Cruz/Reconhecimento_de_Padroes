@@ -1,0 +1,3 @@
+MaxCorr: 0_1
+DMC: Sem
+1-KK: Sem

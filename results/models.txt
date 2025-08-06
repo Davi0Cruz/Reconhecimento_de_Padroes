@@ -1,0 +1,11 @@
+Métrica,Modelo 1,Modelo 2
+Acurácia,0.959429,0.035625
+Falso Positivo,0.000000,0.000000
+Falso Negativo,NaN,NaN
+Sensibilidade,NaN,NaN
+Precisão,NaN,NaN
+Acurácia,0.956000,0.037055
+Falso Positivo,0.000000,0.000000
+Falso Negativo,NaN,NaN
+Sensibilidade,NaN,NaN
+Precisão,NaN,NaN

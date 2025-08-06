@@ -1,0 +1,4 @@
+PCA applied with 39 components for individual 15
+MaxCorr: ZScore
+DMC: ZScore
+1-KK: 0_1
