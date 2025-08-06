@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1754521223.13175 "/home/davi/Documents/UFC/RECONHECIMENTO DE PADROES/trabalho2/main.tex" "main.pdf" "main" 1754521223.92212 0
-  "/home/davi/Documents/UFC/RECONHECIMENTO DE PADROES/trabalho2/main.tex" 1754521222.06004 16936 0bf7f6b95e5e25ca327641185b6c3f5b ""
+["pdflatex"] 1754521498.44195 "/home/davi/Documents/UFC/RECONHECIMENTO DE PADROES/trabalho2/main.tex" "main.pdf" "main" 1754521499.24295 0
+  "/home/davi/Documents/UFC/RECONHECIMENTO DE PADROES/trabalho2/main.tex" 1754521498.24582 16839 f13a53265025ba4788e91e2e6bf5e5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc" 1254269338 2359 de53213020575850c8f8debc35095765 ""
@@ -212,8 +212,8 @@
   "figs/boxplot_pca_sem_red.pdf" 1754481341.36308 9041 3f93ffa8c6063bcf7dfd3b5c0818afe6 ""
   "figs/boxplot_sem_pca.pdf" 1754481338.00998 9096 374544f445c209e5403b21091ecd0733 ""
   "figs/pca_variance.pdf" 1754481348.21983 12229 77c3eb3e9fe57fd966bc536957febf0c ""
-  "main.aux" 1754521223.85093 7142 4e49e42646d6cebb5e3c9de396d16af9 "pdflatex"
-  "main.tex" 1754521222.06004 16936 0bf7f6b95e5e25ca327641185b6c3f5b ""
+  "main.aux" 1754521499.16967 7142 4e49e42646d6cebb5e3c9de396d16af9 "pdflatex"
+  "main.tex" 1754521498.24582 16839 f13a53265025ba4788e91e2e6bf5e5f0 ""
   "texs/model1.tex" 1754520303.19037 325 070774b41bd75e11eb361766a6da96ed ""
   "texs/model2.tex" 1754520303.19074 327 ea68775828c4be97f35b50a86759bfb8 ""
   "texs/table_pca_box.tex" 1754520303.18946 899 428167da793bbc170e588ffedc27d8c7 ""
